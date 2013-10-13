@@ -1,0 +1,7 @@
+nfs-list
+========
+
+show nfs resources in lan
+
+Python version <= 3.2
+PyQt4 version <= 4.8
